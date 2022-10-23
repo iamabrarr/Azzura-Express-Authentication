@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "847846439688",
+    "project_id": "azzure-express",
+    "storage_bucket": "azzure-express.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847846439688:android:4c5d158ae27b3ee3970abd",
+        "android_client_info": {
+          "package_name": "com.azzzure.azzureexpress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847846439688-m9oqe61rnga9c1i5boaubmdfi84f877v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM1ew2oEhvJVDyGA__aBif2ybsAuso2h4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847846439688-m9oqe61rnga9c1i5boaubmdfi84f877v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
