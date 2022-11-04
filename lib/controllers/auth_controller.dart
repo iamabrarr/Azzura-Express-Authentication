@@ -13,10 +13,10 @@ import 'package:twilio_flutter/twilio_flutter.dart';
 class AuthController extends GetxController {
   //TWILIO REQUIRED DETAILS
   final twilioAccountSID =
-      "ACa3232f44d8beafb8de92d2b214c0613b"; // replace *** with Account SID
+      ""; // replace *** with Account SID
   final twilioAuthToken =
-      "e3fb384fc060bd6f76ef74ececc0f47a"; // replace xxx with Auth Token
-  final twilioNumber = "+15072031421"; // replace .... with Twilio Number
+      ""; // replace xxx with Auth Token
+  final twilioNumber = ""; // replace .... with Twilio Number
   //FIREBASE METHODS
   final FirebaseAuth _auth = FirebaseAuth.instance;
   RxString verificationCode = "".obs;
